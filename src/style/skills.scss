@@ -1,0 +1,33 @@
+.skills {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 21%;
+  margin-bottom: 21%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.skills__type {
+  display: flex;
+  align-items: center;
+}
+
+.skills__type img {
+  max-width: 40%;
+}
+
+.skills__attack {
+  max-width: 65%;
+  font-size: 14px;
+}
+
+strong {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.skills__points {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
