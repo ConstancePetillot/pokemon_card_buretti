@@ -4,7 +4,7 @@
   "description": "## Entraînement",
   "main": "index.js",
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "devDependencies": {
     "pug": "^2.0.4",
